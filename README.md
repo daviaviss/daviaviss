@@ -7,13 +7,6 @@
   <p><b>Languages and technologies</b></p>
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,typescript,python,react,next,graphql,nodejs,jest,git,vscode" />
 </div>
-
-<div align="center">
-  <h1></h1>
-  <a href="https://instagram.com/daviaviss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:daviaugustovissotto@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/daviaviss" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-</div>
 <div align="center">
   <img src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif"/>
 </div>
