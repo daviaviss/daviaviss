@@ -7,6 +7,10 @@
   <p><b>Languages and technologies</b></p>
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,typescript,python,react,next,graphql,nodejs,jest,git,vscode" />
 </div>
+
+<div align="center">
+  <h1></h1>
+</div>
 <div align="center">
   <img src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif"/>
 </div>
